@@ -12,8 +12,8 @@ Hosted in Netlify ->[Replic Mart](https://replic-e-commarce.netlify.app/)
 - 2 types of role admin / buyer 
 
 ## Admin Id
-- admin@gmail.com
-- 1234aA@
+- replic@gmail.com
+- replic1@
 
 ## Tech Stack
 
@@ -26,6 +26,7 @@ Hosted in Netlify ->[Replic Mart](https://replic-e-commarce.netlify.app/)
 - Tailwind CSS library (Mamba UI).
 - Tailwind CSS library (Hyper UI).
 - Tailwind CSS library (Kitwnd UI).
+
 **Back-End:** 
 - Node.js
 - Express
